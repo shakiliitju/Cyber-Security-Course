@@ -1,0 +1,28 @@
+Moinoddeen Quader Al Arabi
+Ethical Hacker, Forensic Investigator, and VAPT Expert Cyber Security Consultant in Dhaka Division, Bangladesh
+
+https://about.me/MQ.ARABI
+
+
+Virtual Box 6.1.40
+https://www.virtualbox.org/wiki/Download_Old_Builds_6_1
+
+Kali Purple
+https://www.kali.org/get-kali/#kali-platforms
+
+Udemy Course
+https://tinyurl.com/jugift01
+https://tinyurl.com/jugift02
+https://tinyurl.com/jugift03
+
+windos
+cmd
+msinfo32
+ipconfig/all
+
+
+kali:
+wireshark
+ip.add==10.0.2.15
+ip.src==10.0.2.15
+ip.dst==10.0.2.15

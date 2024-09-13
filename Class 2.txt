@@ -1,0 +1,22 @@
+
+Risk = Vulnerability * Threat
+
+Security Controls
+Prevention Controls
+Detection Controls
+Correction Controls
+
+
+kali
+Change Password: passwd
+uname
+ifconfig
+ip a
+cd ~/Desktop
+mkdir name
+ls
+cd name
+touch name
+open name.extention
+
+
