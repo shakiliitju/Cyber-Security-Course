@@ -1,0 +1,20 @@
+Mitre Att&ck Framework
+Att&ck Methodology
+
+1. Adversary
+2. Threat Models
+3. Techniques (300+)
+4. Mitigation Tactics (18+)
+
+https://attack.mitre.org/
+https://web-check.xyz/
+
+kali
+sudo -i
+
+
+
+Cyber Ki|| Chain
+
+https://exposed.lol/
+https://haveibeenpwned.com/
