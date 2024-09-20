@@ -1,0 +1,4 @@
+http://vulnweb.com/
+http://testphp.vulnweb.com/login.php
+
+http.request.method=="POST"
