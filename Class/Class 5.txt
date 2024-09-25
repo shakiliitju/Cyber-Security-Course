@@ -1,0 +1,74 @@
+
+Pretest Methodology
+
+https://www.virustotal.com/gui/home/upload
+
+Ai
+https://poe.com/login
+https://claude.ai/login
+
+
+https://leakpeek.com/
+https://app.any.run/
+
+https://www.gps-coordinates.net/
+https://osintframework.com/
+https://osintleak.com/
+
+
+Google Dorking 
+intitle:index.of? pdf name
+https://www.dorkgpt.com/
+
+Website Language
+https://www.wappalyzer.com/
+
+
+https://www.exploit-db.com/google-hacking-database
+
+
+Url scan
+https://urlscan.io/
+https://talosintelligence.com/
+
+Database
+https://abuse.ch/
+
+
+Case Study - OSINT - Find the cat location from the disk file.
+
+
+https://polyswarm.network/scan 
+
+ 
+https://metadefenderopswat.com/  
+https://analyze.intezer.com/  
+https://www.hybrid-analysis.com/  
+https://app.any.run/  
+https://tria.ge/submit/file   
+
+
+OSINT Tools Collections #1
+
+OSRFramework: https://lnkd.in/dY2TZARX
+OSINTLeaks: https://osintleak.com/
+                                                                           
+┌──(root㉿kali)-[~]
+└─# cd /media/sf_Cyber-Security-Course
+                                                                             
+┌──(root㉿kali)-[/media/sf_Cyber-Security-Course]
+└─# ls
+'B11(CS).pdf'  'EDGE Routine Round 02.pdf'   README.md
+ Class          Lecture                      Resource
+                                                                             
+┌──(root㉿kali)-[/media/sf_Cyber-Security-Course]
+└─# cd Resource                       
+                                                                             
+┌──(root㉿kali)-[/media/sf_Cyber-Security-Course/Resource]
+└─# ls
+ ch9  'vmware 17 pro key.txt'  'vmware installation.pdf'
+                                                                                                                                     
+┌──(root㉿kali)-[/media/sf_Cyber-Security-Course/Resource]
+└─# apt install testdisk   
+Installing:                     
+  testdisk
