@@ -1,0 +1,12 @@
+Most Useful tool for cyber security
+
+1. setoolkit
+2. wireshark
+3. john
+4. sulmap
+5. aircrack-ng
+6. burpsuite
+7. nc
+8. nikto
+9. nmap
+10. msfconsole
