@@ -12,7 +12,7 @@ Change Password: passwd
 uname
 ifconfig
 ip a
-cd ~/Desktop
+cd 
 mkdir name
 ls
 cd name
