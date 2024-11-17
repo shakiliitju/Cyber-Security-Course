@@ -1,0 +1,3 @@
+Task
+
+Download this healthcare-1 vulnerable Linux machine from vulnhub. Set it up in your local environment. Identify the vulnerability and compromise the system. Create a step by step report and submit in following google form: https://forms.gle/QcipKa88vmGJ2h7p7
